@@ -1,5 +1,6 @@
-# gwenporto.github.io
-Hi, here's my personal website portfolio
+# Welcome to Gwenda's Portofolio
+
+Hi, here's <a href="view/index.html">my personal website portfolio</a>
 <br>
 Kindly check out my portfolio, which contains alot of project I have done. 
 <br>
