@@ -225,10 +225,8 @@ nav {
         text-align: center;
     }
     .imggwen {
-        width: 80%;
-        margin-left: 80px;
-        margin-right: 80px;
-        padding-top: 30px;
+        width: 100%;
+        padding-top: 20px;
     }
     .btn-primary {
         background-color: #DB9328 !important;
@@ -290,7 +288,7 @@ nav {
         padding-top: 10px;
     }
     .card-container {
-        width: 60% !important;
+        width: 100% !important;
     }
     .card-body {
         padding-bottom: 20px;
